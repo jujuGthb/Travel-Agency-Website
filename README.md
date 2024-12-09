@@ -40,7 +40,7 @@ A mock dashboard with responsive tables and charts (using ApexCharts).
 ## How to Run the Project
 
 - Clone the repository:
-git clone https://github.com/username/travel-agency-website.git
+git clone [https://github.com/username/travel-agency-website.git](https://github.com/jujuGthb/Travel-Agency-Website)
 cd travel-agency-website
 
 - Open the project in a browser:
